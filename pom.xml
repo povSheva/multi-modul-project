@@ -13,6 +13,7 @@
         <module>service_a</module>
         <module>service_b</module>
         <module>service_c</module>
+        <module>service_d</module>
     </modules>
 
 
